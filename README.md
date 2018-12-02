@@ -2,6 +2,8 @@
 
 A django e-commerce web app. 
 
+!["Blog Banner"](https://s3-ap-southeast-2.amazonaws.com/full-stack-frameworks/bank-banking-blue-50987.jpg)
+
 ## Setup
 
 * sudo pip3 install django==1.11.
