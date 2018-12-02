@@ -4,7 +4,7 @@ A django e-commerce web app.
 
 !["Blog Banner"](https://s3-ap-southeast-2.amazonaws.com/full-stack-frameworks/bank-banking-blue-50987.jpg)
 
-## Setup
+## Basic Setup
 
 * sudo pip3 install django==1.11.
 * django-admin startproject ecommerce
@@ -12,8 +12,7 @@ A django e-commerce web app.
 * Add a bash terminal alias to make it easier to start the app: alias run="python3 ~/workspace/manage.py runserver $IP:$C9_PORT".
 * Initialise a git repo if not already done.
 * Add SQLite to gitignore file etc. 
-* 
- 
+
 ## UX
  
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
