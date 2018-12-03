@@ -44,6 +44,9 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
 
+- [Stripe](https://stripe.com/docs/api)
+    - The Stripe API was used to facilitate credit card payment.
+
 
 ## Testing
 
